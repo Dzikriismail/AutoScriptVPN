@@ -32,7 +32,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-<pre align="center">wget https://raw.githubusercontent.com/praiman99/AutoScriptVPN/master/setup && chmod +x setup && ./setup
+<pre align="center">wget https://raw.githubusercontent.com/Dzikriismail/AutoScriptVPN/master/setup && chmod +x setup && ./setup
 </pre></p>
 
 <h3 align="center">Download Link Configs OpenVPN</h3>
